@@ -1,2 +1,1 @@
-Hello world
-More content
+This is file one
